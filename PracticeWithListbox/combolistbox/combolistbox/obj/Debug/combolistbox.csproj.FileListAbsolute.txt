@@ -1,0 +1,7 @@
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\bin\Debug\combolistbox.exe.config
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\bin\Debug\combolistbox.exe
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\bin\Debug\combolistbox.pdb
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\obj\Debug\combolistbox.ComboListbox.resources
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\obj\Debug\combolistbox.csproj.GenerateResource.Cache
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\obj\Debug\combolistbox.exe
+D:\1. Đặng Vỹ khôi\13.HK3_năm_2\1.Lập_trình_giao_diện\ThucHanh\BasicC#Practice\PracticeWithListbox\combolistbox\combolistbox\obj\Debug\combolistbox.pdb
